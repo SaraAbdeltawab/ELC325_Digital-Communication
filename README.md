@@ -226,7 +226,7 @@
 
 
 ## Scatter Plot  for 64-Quadrature Amplitude Modulation:
-![Before](./QAM64/With_Raised_Cosine/Scatter_Plot_Before_Noise_qam64_raised_cos.png)
+![Before](./QAM64/With_Raised_Cosine/Scatter_Plot_before_Noise_qam64_raised_cos.png)
 ![After](./QAM64/With_Raised_Cosine/Scatter_Plot_After_Noise_qam64_raised_cos.png)
 ## BER performance figure  for 64-Quadrature Amplitude Modulation:
 ![After](./QAM64/With_Raised_Cosine/Error_Curve_qam64_raised_cosine.png)
