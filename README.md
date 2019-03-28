@@ -104,6 +104,8 @@
 * Random Integer Generator set size = 16
 
 * Modulator and demodulation: Normalization method = Average power
+
+* Number of bits per symbol: 4
 ## Scatter Plot:
 ![QAM16 Before Noise](./QAM16/Without_Raised_Cosine/Scatter_Plot_Before_Noise_qam16.png)
 
@@ -138,7 +140,9 @@
 
 * Modulator and demodulation
 
-Normalization method = Average power
+* Normalization method = Average power
+
+* Number of bits per symbol: 6
 ## Scatter Plot:
 ![QAM64 Before Noise](./QAM64/Without_Raised_Cosine/Scatter_Plot_Before_Noise_qam64.png)
 
@@ -218,6 +222,7 @@ Normalization method = Average power
 * Error Rate calculation : Recieve Delay = 8
 * QAM64 Modulator : Constellation ordering = Binary
 * QAM64 Demodulator : Constellation ordering = Binary
+
 
 
 ## Scatter Plot  for 64-Quadrature Amplitude Modulation:
